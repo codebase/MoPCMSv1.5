@@ -1,0 +1,9 @@
+.svn
+*.log
+.*\.log\.php
+application/logs/
+junk/
+demo/
+staging/
+phpMyAdmin/
+
